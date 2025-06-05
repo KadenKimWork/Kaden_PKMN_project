@@ -1,0 +1,55 @@
+
+
+#crew_name {
+
+    font-family: arial;
+    background-color: rgb(114, 194, 194);
+    width: 200px;
+    
+}
+
+#bio_box {
+
+    background-color: rgb(114, 194, 194);
+
+    height: 400px;
+    width: 600px;
+
+
+}
+
+#bio_text {
+    font-family: arial;
+}
+
+
+
+#member_list {
+    font-size: 30px;
+    font-family: arial;
+}
+
+li:hover {
+
+    cursor: pointer;
+    font-size: 40px;
+    background-color: rgb(75, 171, 171);
+
+}
+
+
+#done_box {
+    font-family: arial;
+    font-size: 30px;
+    background-color: rgb(202, 145, 83);
+    height: 40px;
+    width: 105px;
+}
+
+#done_box:hover {
+    cursor: pointer;
+    background-color: rgb(175, 118, 56);
+    height: 50px;
+    width: 115px;
+    font-size: 33px;
+}
